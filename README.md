@@ -2,6 +2,7 @@
 
 - 🔭 Objetivo -> Desenvolvedor back end
 - 🌱 Estou estudando -> JDBC (MySQL,PostgreSQL), Spring Boo, JPA Hibernate, Web services.
+- 🔭 Tambem estou estudando -> C#
 - 👯 Estou disposto a colaborar com -> Grandes e pequenas empressas
 
 <div align="center">

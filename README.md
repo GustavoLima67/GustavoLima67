@@ -1,8 +1,8 @@
 ### Olá!! Sou o Gustavo 👋
 
 - 🔭 Objetivo -> Desenvolvedor back end
-- 🌱 Estou estudando -> JDBC (MySQL,PostgreSQL), Spring Boot, JPA Hibernate, Web services.
-- 🔭 Tambem estou estudando -> C#
+- 🌱 Tenho conhecimento em -> Banco de Dados (MySQL,PostgreSQL), Spring Boot, JPA Hibernate, Web services.
+- 🔭 Estou estudando -> C# .NET Framework e ASP.NET.
 - 👯 Estou disposto a colaborar com -> Grandes e pequenas empressas
 
 <div align="center">

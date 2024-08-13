@@ -1,10 +1,8 @@
-### Olá!! Sou o Gustavo 👋
+### Olá!! Sou o Gustavo. Sou Estudante de Engenharia de Software cursando o 2 semestre.
 
-- 🔭 Objetivo -> Desenvolvedor back end
-- 🌱 Sou specialiizado em -> Java, Banco de Dados (MySQL,PostgreSQL), Spring Boot, JPA Hibernate, Web services, C# .NET Framework, XML, JSON, Delegates.
-- 🔭 Estou estudando -> ASP.NET, HTML, JavaScript e CSS
-- 👯 Estou disposto a colaborar com -> Grandes e pequenas empressas
-
+- 🔭 Objetivo -> Desenvolvedor Full Stack PJ
+- 🌱 Meus conhecimentos -> Java, Banco de Dados (MySQL,PostgreSQL), Spring Boot, JPA Hibernate, Web services, C# .NET Framework, XML, JSON, Delegates, JavaScript (ReactJS)
+- 🔭 Estou estudando -> Engenharia de Software, ReactJS, Java Spring Boot, MySQL 
 <div align="center">
   <a href="https://github.com/GustavoLima67">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GustavoLima67&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

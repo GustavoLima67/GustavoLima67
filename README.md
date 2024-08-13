@@ -3,7 +3,12 @@
 - 🔭 Objetivo -> Desenvolvedor Full Stack PJ
 - 🌱 Meus conhecimentos -> Java, Banco de Dados (MySQL,PostgreSQL), Spring Boot, JPA Hibernate, Web services, C# .NET Framework, XML, JSON, Delegates, JavaScript (ReactJS)
 - 🔭 Estou estudando -> Engenharia de Software, ReactJS, Java Spring Boot, MySQL
+  
+<div align="center">
 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLima67&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
 
 <div> 
   <a href = "mailto:lgusta333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>

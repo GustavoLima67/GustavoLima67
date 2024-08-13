@@ -4,7 +4,6 @@
 - 🌱 Meus conhecimentos -> Java, Banco de Dados (MySQL,PostgreSQL), Spring Boot, JPA Hibernate, Web services, C# .NET Framework, XML, JSON, Delegates, JavaScript (ReactJS)
 - 🔭 Estou estudando -> Engenharia de Software, ReactJS, Java Spring Boot, MySQL 
 <div align="center">
-  <a href="https://github.com/GustavoLima67">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GustavoLima67&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLima67&layout=compact&langs_count=7&theme=dark"/>
 </div>
